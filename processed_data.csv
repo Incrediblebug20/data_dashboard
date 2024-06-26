@@ -1,0 +1,1001 @@
+patient_id,name,age,gender,diagnosis,treatment,age_group
+1,Judy Adams,44,Female,COVID-19,Vaccination,36-50
+2,Alice Johnson,56,Male,Flu,Rehabilitation,51-65
+3,Hannah Black,63,Female,Bronchitis,Lifestyle changes,51-65
+4,Fiona White,5,Male,Hypertension,Rehabilitation,0-18
+5,Bob Smith,25,Male,Anxiety,Vaccination,19-35
+6,Charlie Davis,43,Female,Diabetes,Dietary changes,36-50
+7,Ian Clark,59,Male,Diabetes,Observation,51-65
+8,Fiona White,15,Male,Depression,Vaccination,0-18
+9,Ian Clark,4,Female,Flu,Lifestyle changes,0-18
+10,Fiona White,1,Male,Diabetes,Lifestyle changes,0-18
+11,George Green,37,Female,Anxiety,Physical therapy,36-50
+12,Bob Smith,6,Male,Depression,Dietary changes,0-18
+13,Alice Johnson,49,Female,Allergies,Dietary changes,36-50
+14,Ethan Brown,12,Male,Depression,Medication,0-18
+15,Judy Adams,25,Male,Anxiety,Therapy,19-35
+16,Judy Adams,46,Female,Flu,Observation,36-50
+17,Hannah Black,8,Female,COVID-19,Lifestyle changes,0-18
+18,Alice Johnson,70,Male,Diabetes,Surgery,65+
+19,George Green,27,Male,Allergies,Surgery,19-35
+20,Alice Johnson,20,Male,Allergies,Physical therapy,19-35
+21,Diana Roberts,4,Male,Asthma,Dietary changes,0-18
+22,Alice Johnson,10,Female,Bronchitis,Surgery,0-18
+23,George Green,68,Male,Anxiety,Vaccination,65+
+24,Ethan Brown,53,Female,Allergies,Physical therapy,51-65
+25,Hannah Black,43,Male,Allergies,Lifestyle changes,36-50
+26,Hannah Black,70,Male,Diabetes,Observation,65+
+27,Fiona White,1,Female,Diabetes,Therapy,0-18
+28,Diana Roberts,14,Female,Depression,Observation,0-18
+29,Alice Johnson,44,Male,COVID-19,Vaccination,36-50
+30,Charlie Davis,59,Male,Arthritis,Medication,51-65
+31,Ethan Brown,8,Female,Diabetes,Dietary changes,0-18
+32,Ian Clark,11,Female,COVID-19,Observation,0-18
+33,Alice Johnson,5,Female,Diabetes,Medication,0-18
+34,Ian Clark,62,Female,Diabetes,Observation,51-65
+35,Diana Roberts,31,Female,Diabetes,Medication,19-35
+36,Alice Johnson,34,Female,COVID-19,Counseling,19-35
+37,George Green,41,Female,Anxiety,Surgery,36-50
+38,Alice Johnson,34,Female,COVID-19,Vaccination,19-35
+39,Alice Johnson,39,Female,Allergies,Medication,36-50
+40,Alice Johnson,45,Female,COVID-19,Counseling,36-50
+41,Bob Smith,53,Male,Depression,Therapy,51-65
+42,Charlie Davis,13,Female,Depression,Counseling,0-18
+43,Hannah Black,51,Female,Diabetes,Surgery,51-65
+44,George Green,9,Female,Flu,Observation,0-18
+45,Alice Johnson,13,Male,Arthritis,Surgery,0-18
+46,Bob Smith,23,Female,Anxiety,Physical therapy,19-35
+47,Bob Smith,3,Male,Bronchitis,Lifestyle changes,0-18
+48,Hannah Black,8,Female,Arthritis,Therapy,0-18
+49,Diana Roberts,10,Male,Diabetes,Dietary changes,0-18
+50,Ethan Brown,5,Male,Hypertension,Surgery,0-18
+51,Alice Johnson,57,Female,Hypertension,Vaccination,51-65
+52,Diana Roberts,30,Female,Arthritis,Physical therapy,19-35
+53,Alice Johnson,37,Male,Asthma,Lifestyle changes,36-50
+54,Judy Adams,56,Male,Allergies,Vaccination,51-65
+55,Diana Roberts,23,Male,COVID-19,Therapy,19-35
+56,George Green,59,Female,Anxiety,Surgery,51-65
+57,Charlie Davis,55,Female,Depression,Medication,51-65
+58,Hannah Black,62,Male,Bronchitis,Observation,51-65
+59,Judy Adams,23,Male,Allergies,Surgery,19-35
+60,Judy Adams,19,Male,Asthma,Rehabilitation,19-35
+61,Charlie Davis,52,Male,Bronchitis,Counseling,51-65
+62,Alice Johnson,52,Female,Anxiety,Observation,51-65
+63,Bob Smith,12,Female,Bronchitis,Physical therapy,0-18
+64,Charlie Davis,13,Male,Hypertension,Therapy,0-18
+65,Diana Roberts,67,Male,COVID-19,Medication,65+
+66,Charlie Davis,27,Male,Depression,Counseling,19-35
+67,Ian Clark,33,Female,Allergies,Surgery,19-35
+68,Diana Roberts,21,Female,Anxiety,Medication,19-35
+69,Alice Johnson,63,Male,Anxiety,Physical therapy,51-65
+70,George Green,69,Female,Depression,Counseling,65+
+71,Fiona White,51,Male,Diabetes,Lifestyle changes,51-65
+72,Bob Smith,51,Male,Allergies,Therapy,51-65
+73,Charlie Davis,8,Female,Diabetes,Lifestyle changes,0-18
+74,Fiona White,16,Female,Arthritis,Vaccination,0-18
+75,Alice Johnson,30,Male,Hypertension,Observation,19-35
+76,Judy Adams,42,Male,COVID-19,Physical therapy,36-50
+77,Hannah Black,20,Male,Flu,Physical therapy,19-35
+78,Alice Johnson,54,Male,Diabetes,Physical therapy,51-65
+79,Bob Smith,2,Female,Allergies,Therapy,0-18
+80,Ian Clark,49,Female,Arthritis,Dietary changes,36-50
+81,Ian Clark,32,Female,Depression,Vaccination,19-35
+82,Charlie Davis,2,Female,COVID-19,Rehabilitation,0-18
+83,Diana Roberts,61,Male,COVID-19,Medication,51-65
+84,Bob Smith,24,Female,Depression,Dietary changes,19-35
+85,Hannah Black,42,Male,Diabetes,Vaccination,36-50
+86,George Green,5,Male,Allergies,Lifestyle changes,0-18
+87,Alice Johnson,28,Female,Flu,Therapy,19-35
+88,Fiona White,57,Female,Hypertension,Observation,51-65
+89,Bob Smith,67,Male,Arthritis,Dietary changes,65+
+90,Ethan Brown,24,Female,Flu,Rehabilitation,19-35
+91,Bob Smith,57,Female,Asthma,Physical therapy,51-65
+92,Charlie Davis,42,Male,Allergies,Observation,36-50
+93,Diana Roberts,21,Male,Hypertension,Lifestyle changes,19-35
+94,George Green,19,Female,Allergies,Observation,19-35
+95,George Green,45,Male,Flu,Therapy,36-50
+96,Diana Roberts,40,Female,Allergies,Dietary changes,36-50
+97,Fiona White,14,Female,Flu,Dietary changes,0-18
+98,Judy Adams,38,Female,Diabetes,Vaccination,36-50
+99,Ian Clark,58,Female,Anxiety,Rehabilitation,51-65
+100,Ethan Brown,19,Male,Allergies,Medication,19-35
+101,Judy Adams,22,Female,Arthritis,Observation,19-35
+102,Ian Clark,15,Male,Bronchitis,Medication,0-18
+103,Ian Clark,6,Female,Hypertension,Physical therapy,0-18
+104,Bob Smith,26,Female,Diabetes,Observation,19-35
+105,Diana Roberts,45,Female,COVID-19,Therapy,36-50
+106,Alice Johnson,5,Female,Allergies,Dietary changes,0-18
+107,George Green,20,Female,Depression,Observation,19-35
+108,Bob Smith,20,Female,Flu,Dietary changes,19-35
+109,Hannah Black,67,Female,Flu,Medication,65+
+110,Hannah Black,20,Male,Flu,Surgery,19-35
+111,Bob Smith,43,Male,Bronchitis,Medication,36-50
+112,George Green,16,Female,Allergies,Surgery,0-18
+113,Charlie Davis,57,Female,Flu,Dietary changes,51-65
+114,Diana Roberts,12,Female,Depression,Dietary changes,0-18
+115,Charlie Davis,68,Male,Flu,Physical therapy,65+
+116,Alice Johnson,47,Female,Bronchitis,Dietary changes,36-50
+117,Bob Smith,36,Female,Diabetes,Therapy,36-50
+118,George Green,32,Male,Asthma,Lifestyle changes,19-35
+119,Alice Johnson,2,Female,Diabetes,Surgery,0-18
+120,George Green,21,Male,Anxiety,Observation,19-35
+121,Ian Clark,37,Female,Allergies,Rehabilitation,36-50
+122,Diana Roberts,50,Female,Anxiety,Medication,36-50
+123,Ian Clark,41,Male,Allergies,Counseling,36-50
+124,Alice Johnson,64,Female,Allergies,Observation,51-65
+125,Diana Roberts,46,Male,Arthritis,Surgery,36-50
+126,Bob Smith,56,Female,Depression,Physical therapy,51-65
+127,Judy Adams,32,Female,Hypertension,Vaccination,19-35
+128,Judy Adams,12,Female,Allergies,Physical therapy,0-18
+129,Ethan Brown,62,Female,Hypertension,Counseling,51-65
+130,Charlie Davis,20,Male,Anxiety,Medication,19-35
+131,Diana Roberts,65,Male,Depression,Observation,51-65
+132,Diana Roberts,65,Male,Hypertension,Medication,51-65
+133,George Green,35,Female,Arthritis,Surgery,19-35
+134,Diana Roberts,58,Male,Asthma,Counseling,51-65
+135,Diana Roberts,30,Male,Hypertension,Dietary changes,19-35
+136,Hannah Black,16,Male,Hypertension,Vaccination,0-18
+137,Fiona White,65,Female,Flu,Medication,51-65
+138,Alice Johnson,3,Male,Depression,Dietary changes,0-18
+139,Bob Smith,69,Male,Allergies,Vaccination,65+
+140,Judy Adams,3,Female,Hypertension,Counseling,0-18
+141,Bob Smith,54,Female,Hypertension,Therapy,51-65
+142,Ian Clark,39,Male,Diabetes,Vaccination,36-50
+143,Alice Johnson,14,Female,Flu,Medication,0-18
+144,Alice Johnson,43,Female,Bronchitis,Observation,36-50
+145,Judy Adams,66,Male,Flu,Vaccination,65+
+146,Alice Johnson,39,Female,Arthritis,Physical therapy,36-50
+147,George Green,24,Male,Diabetes,Counseling,19-35
+148,Alice Johnson,11,Male,Diabetes,Rehabilitation,0-18
+149,Charlie Davis,28,Female,Arthritis,Rehabilitation,19-35
+150,Ian Clark,55,Female,COVID-19,Counseling,51-65
+151,Bob Smith,8,Male,Bronchitis,Vaccination,0-18
+152,George Green,58,Male,COVID-19,Therapy,51-65
+153,Judy Adams,23,Male,Arthritis,Therapy,19-35
+154,Hannah Black,9,Female,Hypertension,Vaccination,0-18
+155,Charlie Davis,20,Female,Allergies,Observation,19-35
+156,Ethan Brown,5,Male,Flu,Lifestyle changes,0-18
+157,Diana Roberts,70,Male,Allergies,Medication,65+
+158,Judy Adams,43,Male,Hypertension,Dietary changes,36-50
+159,Alice Johnson,9,Female,Asthma,Vaccination,0-18
+160,Ethan Brown,23,Female,Hypertension,Counseling,19-35
+161,Ian Clark,7,Male,COVID-19,Therapy,0-18
+162,Bob Smith,1,Female,Anxiety,Rehabilitation,0-18
+163,Charlie Davis,9,Female,Arthritis,Dietary changes,0-18
+164,Ethan Brown,36,Male,Anxiety,Lifestyle changes,36-50
+165,Fiona White,42,Male,Depression,Dietary changes,36-50
+166,George Green,23,Male,Anxiety,Rehabilitation,19-35
+167,Hannah Black,38,Female,Diabetes,Observation,36-50
+168,Diana Roberts,51,Male,Flu,Physical therapy,51-65
+169,Bob Smith,50,Male,Asthma,Medication,36-50
+170,Charlie Davis,27,Female,Arthritis,Observation,19-35
+171,Bob Smith,16,Male,Diabetes,Dietary changes,0-18
+172,George Green,55,Female,Arthritis,Vaccination,51-65
+173,Ian Clark,66,Male,Arthritis,Vaccination,65+
+174,Ethan Brown,7,Male,Arthritis,Dietary changes,0-18
+175,Ian Clark,7,Male,Asthma,Counseling,0-18
+176,Ethan Brown,47,Male,Hypertension,Dietary changes,36-50
+177,Diana Roberts,67,Female,Bronchitis,Dietary changes,65+
+178,Alice Johnson,20,Male,Asthma,Medication,19-35
+179,Judy Adams,29,Male,Bronchitis,Observation,19-35
+180,Judy Adams,30,Female,COVID-19,Observation,19-35
+181,Judy Adams,65,Female,Bronchitis,Lifestyle changes,51-65
+182,Bob Smith,31,Male,Allergies,Therapy,19-35
+183,Ian Clark,47,Female,Asthma,Counseling,36-50
+184,Diana Roberts,15,Female,Anxiety,Vaccination,0-18
+185,Charlie Davis,31,Female,Flu,Physical therapy,19-35
+186,Charlie Davis,58,Female,Asthma,Surgery,51-65
+187,Ethan Brown,63,Male,COVID-19,Surgery,51-65
+188,Charlie Davis,62,Male,Hypertension,Surgery,51-65
+189,Alice Johnson,29,Female,Allergies,Medication,19-35
+190,George Green,38,Female,Anxiety,Medication,36-50
+191,Charlie Davis,58,Female,Bronchitis,Rehabilitation,51-65
+192,Bob Smith,48,Male,Flu,Vaccination,36-50
+193,Ethan Brown,38,Female,Depression,Observation,36-50
+194,George Green,4,Male,Allergies,Observation,0-18
+195,Fiona White,31,Female,COVID-19,Observation,19-35
+196,Charlie Davis,6,Male,Diabetes,Dietary changes,0-18
+197,Diana Roberts,36,Female,Asthma,Medication,36-50
+198,Ethan Brown,27,Male,Diabetes,Medication,19-35
+199,Ian Clark,67,Female,Arthritis,Surgery,65+
+200,Diana Roberts,17,Male,COVID-19,Vaccination,0-18
+201,Ian Clark,23,Female,Arthritis,Surgery,19-35
+202,Judy Adams,48,Female,Arthritis,Medication,36-50
+203,Ian Clark,26,Male,Diabetes,Physical therapy,19-35
+204,Diana Roberts,40,Female,COVID-19,Counseling,36-50
+205,Charlie Davis,31,Male,Diabetes,Medication,19-35
+206,Bob Smith,28,Female,Depression,Therapy,19-35
+207,Alice Johnson,22,Female,Arthritis,Medication,19-35
+208,Alice Johnson,32,Female,Anxiety,Surgery,19-35
+209,Bob Smith,19,Female,Depression,Lifestyle changes,19-35
+210,Diana Roberts,36,Female,Hypertension,Medication,36-50
+211,Bob Smith,31,Female,Asthma,Surgery,19-35
+212,George Green,28,Female,COVID-19,Surgery,19-35
+213,Ian Clark,60,Male,Bronchitis,Medication,51-65
+214,Ian Clark,38,Female,Diabetes,Dietary changes,36-50
+215,Judy Adams,20,Female,Anxiety,Rehabilitation,19-35
+216,Charlie Davis,60,Female,Flu,Medication,51-65
+217,George Green,53,Male,Asthma,Observation,51-65
+218,Fiona White,22,Female,Diabetes,Vaccination,19-35
+219,George Green,44,Female,Bronchitis,Dietary changes,36-50
+220,Ian Clark,36,Female,Depression,Medication,36-50
+221,Judy Adams,19,Female,Anxiety,Observation,19-35
+222,Ethan Brown,69,Male,Bronchitis,Counseling,65+
+223,Ethan Brown,6,Female,Asthma,Therapy,0-18
+224,Bob Smith,1,Female,Diabetes,Medication,0-18
+225,Fiona White,58,Female,COVID-19,Physical therapy,51-65
+226,Ethan Brown,10,Female,Anxiety,Lifestyle changes,0-18
+227,Ethan Brown,26,Female,Asthma,Counseling,19-35
+228,Hannah Black,11,Female,Asthma,Dietary changes,0-18
+229,Alice Johnson,31,Female,Flu,Surgery,19-35
+230,Ian Clark,11,Female,Depression,Medication,0-18
+231,Judy Adams,40,Male,Anxiety,Lifestyle changes,36-50
+232,Charlie Davis,24,Female,Anxiety,Surgery,19-35
+233,George Green,20,Female,Diabetes,Physical therapy,19-35
+234,Ethan Brown,24,Female,Allergies,Observation,19-35
+235,Alice Johnson,45,Female,Hypertension,Lifestyle changes,36-50
+236,Diana Roberts,39,Female,Diabetes,Rehabilitation,36-50
+237,Fiona White,49,Male,Arthritis,Medication,36-50
+238,Fiona White,44,Male,COVID-19,Lifestyle changes,36-50
+239,Charlie Davis,2,Male,Allergies,Rehabilitation,0-18
+240,Ian Clark,52,Male,COVID-19,Counseling,51-65
+241,Ian Clark,28,Male,Asthma,Lifestyle changes,19-35
+242,George Green,42,Male,Anxiety,Counseling,36-50
+243,George Green,10,Female,Depression,Counseling,0-18
+244,Bob Smith,2,Female,Arthritis,Dietary changes,0-18
+245,Judy Adams,4,Female,Bronchitis,Physical therapy,0-18
+246,Ian Clark,59,Male,Allergies,Vaccination,51-65
+247,Ethan Brown,50,Female,Depression,Surgery,36-50
+248,Judy Adams,11,Male,Hypertension,Surgery,0-18
+249,Bob Smith,50,Male,Arthritis,Surgery,36-50
+250,Diana Roberts,9,Male,Depression,Counseling,0-18
+251,George Green,15,Female,COVID-19,Vaccination,0-18
+252,Fiona White,13,Female,Flu,Therapy,0-18
+253,Bob Smith,58,Female,Asthma,Observation,51-65
+254,Hannah Black,59,Female,Asthma,Observation,51-65
+255,Charlie Davis,36,Male,Flu,Rehabilitation,36-50
+256,Fiona White,64,Male,Depression,Physical therapy,51-65
+257,Diana Roberts,13,Female,Asthma,Therapy,0-18
+258,Judy Adams,15,Male,Arthritis,Surgery,0-18
+259,Bob Smith,49,Female,Arthritis,Observation,36-50
+260,Bob Smith,29,Male,Bronchitis,Therapy,19-35
+261,Bob Smith,38,Female,Hypertension,Observation,36-50
+262,Alice Johnson,47,Female,Diabetes,Lifestyle changes,36-50
+263,Ethan Brown,31,Male,Arthritis,Dietary changes,19-35
+264,Bob Smith,2,Female,Flu,Vaccination,0-18
+265,George Green,22,Female,Depression,Counseling,19-35
+266,Alice Johnson,10,Female,Asthma,Lifestyle changes,0-18
+267,Hannah Black,44,Male,Hypertension,Rehabilitation,36-50
+268,Diana Roberts,39,Female,Arthritis,Vaccination,36-50
+269,Ethan Brown,36,Female,COVID-19,Rehabilitation,36-50
+270,Bob Smith,39,Male,Allergies,Lifestyle changes,36-50
+271,Ian Clark,53,Female,Arthritis,Medication,51-65
+272,Hannah Black,23,Male,Bronchitis,Surgery,19-35
+273,Ian Clark,62,Female,Flu,Physical therapy,51-65
+274,Judy Adams,19,Female,Bronchitis,Physical therapy,19-35
+275,Bob Smith,51,Female,Flu,Dietary changes,51-65
+276,Ian Clark,56,Female,Diabetes,Therapy,51-65
+277,Charlie Davis,19,Female,Depression,Counseling,19-35
+278,Judy Adams,34,Male,Hypertension,Rehabilitation,19-35
+279,Hannah Black,40,Female,Anxiety,Counseling,36-50
+280,Diana Roberts,19,Male,Anxiety,Vaccination,19-35
+281,Hannah Black,3,Male,Bronchitis,Lifestyle changes,0-18
+282,Hannah Black,21,Male,Depression,Medication,19-35
+283,Ian Clark,46,Male,Anxiety,Physical therapy,36-50
+284,Judy Adams,12,Female,Bronchitis,Rehabilitation,0-18
+285,Charlie Davis,40,Female,Bronchitis,Rehabilitation,36-50
+286,Bob Smith,50,Male,Flu,Physical therapy,36-50
+287,Hannah Black,60,Male,Hypertension,Dietary changes,51-65
+288,Diana Roberts,53,Female,Asthma,Medication,51-65
+289,Alice Johnson,47,Female,Flu,Lifestyle changes,36-50
+290,Ian Clark,33,Female,Bronchitis,Dietary changes,19-35
+291,Charlie Davis,49,Male,Hypertension,Medication,36-50
+292,George Green,55,Female,Anxiety,Rehabilitation,51-65
+293,Hannah Black,69,Male,Hypertension,Physical therapy,65+
+294,Alice Johnson,69,Male,Allergies,Counseling,65+
+295,Charlie Davis,63,Male,COVID-19,Lifestyle changes,51-65
+296,Judy Adams,32,Female,Asthma,Surgery,19-35
+297,Ian Clark,43,Female,Asthma,Medication,36-50
+298,Diana Roberts,23,Female,COVID-19,Lifestyle changes,19-35
+299,Bob Smith,44,Female,Asthma,Dietary changes,36-50
+300,Ian Clark,9,Female,Allergies,Therapy,0-18
+301,Charlie Davis,52,Male,Anxiety,Lifestyle changes,51-65
+302,Charlie Davis,19,Female,Asthma,Vaccination,19-35
+303,Charlie Davis,7,Female,Bronchitis,Surgery,0-18
+304,Hannah Black,51,Female,Arthritis,Observation,51-65
+305,Ian Clark,9,Male,Hypertension,Physical therapy,0-18
+306,Bob Smith,65,Male,Depression,Counseling,51-65
+307,Diana Roberts,50,Male,COVID-19,Lifestyle changes,36-50
+308,Alice Johnson,58,Female,Bronchitis,Vaccination,51-65
+309,Hannah Black,36,Female,Hypertension,Counseling,36-50
+310,Charlie Davis,23,Male,Depression,Dietary changes,19-35
+311,Bob Smith,35,Male,Flu,Therapy,19-35
+312,Diana Roberts,55,Male,Asthma,Medication,51-65
+313,George Green,2,Female,Anxiety,Vaccination,0-18
+314,Diana Roberts,18,Female,Anxiety,Therapy,0-18
+315,Charlie Davis,45,Female,Allergies,Therapy,36-50
+316,Fiona White,55,Male,Anxiety,Vaccination,51-65
+317,Bob Smith,67,Female,Depression,Dietary changes,65+
+318,George Green,50,Female,Arthritis,Medication,36-50
+319,Diana Roberts,1,Female,Anxiety,Observation,0-18
+320,George Green,39,Female,COVID-19,Vaccination,36-50
+321,Ethan Brown,29,Female,Allergies,Surgery,19-35
+322,Hannah Black,48,Male,Hypertension,Rehabilitation,36-50
+323,Hannah Black,5,Male,Hypertension,Lifestyle changes,0-18
+324,George Green,34,Male,Asthma,Lifestyle changes,19-35
+325,Fiona White,57,Female,Depression,Observation,51-65
+326,Diana Roberts,8,Female,Diabetes,Dietary changes,0-18
+327,Fiona White,3,Female,COVID-19,Medication,0-18
+328,Hannah Black,6,Male,Depression,Lifestyle changes,0-18
+329,Judy Adams,10,Female,COVID-19,Observation,0-18
+330,Diana Roberts,68,Female,Depression,Observation,65+
+331,Diana Roberts,32,Female,Flu,Counseling,19-35
+332,Hannah Black,24,Female,Arthritis,Vaccination,19-35
+333,Diana Roberts,7,Female,Diabetes,Counseling,0-18
+334,Fiona White,31,Female,Allergies,Surgery,19-35
+335,Charlie Davis,16,Female,Depression,Counseling,0-18
+336,Ethan Brown,69,Male,COVID-19,Lifestyle changes,65+
+337,Ian Clark,9,Female,Bronchitis,Medication,0-18
+338,Bob Smith,3,Female,Depression,Lifestyle changes,0-18
+339,Diana Roberts,33,Male,Asthma,Therapy,19-35
+340,Ethan Brown,10,Male,Arthritis,Dietary changes,0-18
+341,George Green,31,Male,Diabetes,Physical therapy,19-35
+342,Fiona White,1,Male,Flu,Surgery,0-18
+343,Ethan Brown,25,Male,Diabetes,Rehabilitation,19-35
+344,Ethan Brown,17,Female,Depression,Dietary changes,0-18
+345,Ian Clark,58,Male,Hypertension,Physical therapy,51-65
+346,Hannah Black,9,Female,Depression,Vaccination,0-18
+347,Alice Johnson,43,Female,Anxiety,Dietary changes,36-50
+348,Bob Smith,11,Male,Arthritis,Counseling,0-18
+349,Hannah Black,20,Female,Hypertension,Rehabilitation,19-35
+350,Charlie Davis,69,Male,Allergies,Lifestyle changes,65+
+351,Bob Smith,30,Female,COVID-19,Lifestyle changes,19-35
+352,Ian Clark,63,Male,Arthritis,Observation,51-65
+353,Charlie Davis,70,Male,Flu,Medication,65+
+354,Judy Adams,32,Female,Allergies,Surgery,19-35
+355,Ethan Brown,30,Female,Flu,Vaccination,19-35
+356,George Green,49,Male,Asthma,Medication,36-50
+357,Judy Adams,31,Male,Hypertension,Physical therapy,19-35
+358,George Green,56,Male,Arthritis,Rehabilitation,51-65
+359,Diana Roberts,63,Male,Arthritis,Observation,51-65
+360,Diana Roberts,48,Female,Hypertension,Vaccination,36-50
+361,Judy Adams,25,Male,Flu,Rehabilitation,19-35
+362,Bob Smith,60,Female,Hypertension,Observation,51-65
+363,Diana Roberts,60,Female,Diabetes,Lifestyle changes,51-65
+364,Charlie Davis,40,Male,Depression,Counseling,36-50
+365,George Green,42,Female,Arthritis,Vaccination,36-50
+366,Ethan Brown,34,Female,Depression,Lifestyle changes,19-35
+367,Alice Johnson,7,Male,Anxiety,Vaccination,0-18
+368,Alice Johnson,60,Male,Diabetes,Observation,51-65
+369,Ethan Brown,43,Female,Anxiety,Vaccination,36-50
+370,George Green,24,Female,Arthritis,Physical therapy,19-35
+371,Bob Smith,57,Female,Arthritis,Counseling,51-65
+372,Diana Roberts,10,Female,Flu,Surgery,0-18
+373,Diana Roberts,37,Female,Depression,Vaccination,36-50
+374,Judy Adams,16,Female,Arthritis,Physical therapy,0-18
+375,Charlie Davis,61,Male,Anxiety,Dietary changes,51-65
+376,Charlie Davis,10,Female,Hypertension,Vaccination,0-18
+377,Ian Clark,65,Male,Anxiety,Medication,51-65
+378,Charlie Davis,68,Male,Anxiety,Physical therapy,65+
+379,Charlie Davis,25,Female,Flu,Physical therapy,19-35
+380,Fiona White,68,Male,Depression,Medication,65+
+381,Ian Clark,61,Female,Bronchitis,Vaccination,51-65
+382,Hannah Black,66,Male,Depression,Physical therapy,65+
+383,Fiona White,40,Male,Allergies,Observation,36-50
+384,Ethan Brown,21,Male,Arthritis,Dietary changes,19-35
+385,Ian Clark,70,Female,Arthritis,Lifestyle changes,65+
+386,Fiona White,56,Male,Allergies,Medication,51-65
+387,Diana Roberts,40,Male,Bronchitis,Therapy,36-50
+388,Charlie Davis,36,Female,Depression,Vaccination,36-50
+389,Diana Roberts,2,Male,Depression,Vaccination,0-18
+390,Hannah Black,54,Male,Hypertension,Vaccination,51-65
+391,George Green,41,Male,Flu,Surgery,36-50
+392,Alice Johnson,28,Male,Asthma,Lifestyle changes,19-35
+393,Diana Roberts,65,Male,Flu,Physical therapy,51-65
+394,Ethan Brown,20,Male,Anxiety,Surgery,19-35
+395,Charlie Davis,36,Male,Diabetes,Vaccination,36-50
+396,Ian Clark,40,Male,COVID-19,Surgery,36-50
+397,Bob Smith,22,Female,Asthma,Surgery,19-35
+398,Diana Roberts,37,Male,Allergies,Dietary changes,36-50
+399,Ian Clark,23,Female,Asthma,Counseling,19-35
+400,Bob Smith,39,Female,Depression,Lifestyle changes,36-50
+401,Hannah Black,54,Male,Arthritis,Vaccination,51-65
+402,Alice Johnson,21,Male,Allergies,Physical therapy,19-35
+403,Judy Adams,58,Female,Flu,Rehabilitation,51-65
+404,Diana Roberts,18,Female,Diabetes,Surgery,0-18
+405,Ethan Brown,15,Male,Hypertension,Surgery,0-18
+406,George Green,8,Female,Arthritis,Surgery,0-18
+407,Alice Johnson,5,Male,COVID-19,Physical therapy,0-18
+408,Ian Clark,8,Female,Anxiety,Physical therapy,0-18
+409,Diana Roberts,50,Male,Anxiety,Medication,36-50
+410,George Green,54,Female,Arthritis,Vaccination,51-65
+411,Ethan Brown,3,Male,Anxiety,Therapy,0-18
+412,Ian Clark,41,Female,Flu,Rehabilitation,36-50
+413,Ethan Brown,16,Male,Diabetes,Dietary changes,0-18
+414,Charlie Davis,59,Female,Bronchitis,Therapy,51-65
+415,Alice Johnson,49,Female,Anxiety,Vaccination,36-50
+416,Ian Clark,46,Male,Bronchitis,Rehabilitation,36-50
+417,Alice Johnson,63,Male,Allergies,Therapy,51-65
+418,Ian Clark,40,Male,Flu,Rehabilitation,36-50
+419,Alice Johnson,70,Male,COVID-19,Therapy,65+
+420,George Green,36,Female,Anxiety,Dietary changes,36-50
+421,Ethan Brown,56,Female,Depression,Lifestyle changes,51-65
+422,Hannah Black,1,Female,Hypertension,Surgery,0-18
+423,Fiona White,68,Female,Asthma,Vaccination,65+
+424,Hannah Black,33,Male,Asthma,Lifestyle changes,19-35
+425,Fiona White,7,Male,Anxiety,Physical therapy,0-18
+426,Charlie Davis,51,Male,Asthma,Medication,51-65
+427,Ethan Brown,60,Male,Asthma,Lifestyle changes,51-65
+428,Alice Johnson,19,Male,Allergies,Dietary changes,19-35
+429,Bob Smith,66,Male,Depression,Therapy,65+
+430,Charlie Davis,56,Female,Diabetes,Observation,51-65
+431,Alice Johnson,31,Female,Hypertension,Lifestyle changes,19-35
+432,Hannah Black,65,Male,Diabetes,Surgery,51-65
+433,Fiona White,2,Male,COVID-19,Dietary changes,0-18
+434,Ethan Brown,70,Male,Arthritis,Counseling,65+
+435,Bob Smith,16,Male,Allergies,Surgery,0-18
+436,Alice Johnson,49,Female,Anxiety,Observation,36-50
+437,Ethan Brown,55,Female,Diabetes,Rehabilitation,51-65
+438,Charlie Davis,36,Female,COVID-19,Physical therapy,36-50
+439,Alice Johnson,38,Male,Asthma,Counseling,36-50
+440,Ian Clark,64,Male,Arthritis,Vaccination,51-65
+441,Alice Johnson,49,Male,Asthma,Dietary changes,36-50
+442,Ethan Brown,4,Male,COVID-19,Lifestyle changes,0-18
+443,Ethan Brown,34,Male,Allergies,Therapy,19-35
+444,Hannah Black,41,Male,Allergies,Dietary changes,36-50
+445,Fiona White,62,Female,Depression,Vaccination,51-65
+446,Fiona White,42,Female,Anxiety,Observation,36-50
+447,Judy Adams,20,Male,Diabetes,Dietary changes,19-35
+448,Fiona White,62,Male,COVID-19,Medication,51-65
+449,Ian Clark,52,Female,Anxiety,Surgery,51-65
+450,Hannah Black,61,Male,Bronchitis,Counseling,51-65
+451,Charlie Davis,38,Male,Flu,Dietary changes,36-50
+452,Hannah Black,63,Male,Asthma,Observation,51-65
+453,Judy Adams,36,Male,Anxiety,Counseling,36-50
+454,Fiona White,28,Male,Diabetes,Rehabilitation,19-35
+455,George Green,24,Male,Anxiety,Surgery,19-35
+456,Charlie Davis,33,Male,COVID-19,Observation,19-35
+457,George Green,21,Female,COVID-19,Physical therapy,19-35
+458,Ian Clark,28,Female,Allergies,Physical therapy,19-35
+459,Ian Clark,2,Male,Allergies,Lifestyle changes,0-18
+460,Fiona White,19,Female,Diabetes,Rehabilitation,19-35
+461,George Green,3,Male,Arthritis,Vaccination,0-18
+462,Ethan Brown,11,Male,Allergies,Therapy,0-18
+463,Bob Smith,22,Male,Asthma,Lifestyle changes,19-35
+464,George Green,40,Male,Bronchitis,Medication,36-50
+465,Bob Smith,70,Male,Depression,Vaccination,65+
+466,Charlie Davis,44,Male,Arthritis,Medication,36-50
+467,Ian Clark,69,Female,Bronchitis,Dietary changes,65+
+468,Diana Roberts,2,Female,Diabetes,Lifestyle changes,0-18
+469,Judy Adams,42,Female,Flu,Counseling,36-50
+470,Ian Clark,57,Male,Hypertension,Physical therapy,51-65
+471,Diana Roberts,11,Male,COVID-19,Counseling,0-18
+472,Hannah Black,22,Male,Bronchitis,Dietary changes,19-35
+473,Ethan Brown,32,Male,COVID-19,Observation,19-35
+474,Ethan Brown,42,Male,Asthma,Dietary changes,36-50
+475,Fiona White,14,Male,Anxiety,Physical therapy,0-18
+476,Diana Roberts,21,Female,Flu,Medication,19-35
+477,Bob Smith,67,Male,Hypertension,Therapy,65+
+478,Ian Clark,60,Male,Arthritis,Dietary changes,51-65
+479,Diana Roberts,45,Male,Anxiety,Therapy,36-50
+480,Fiona White,19,Female,Diabetes,Surgery,19-35
+481,Ian Clark,4,Male,Anxiety,Vaccination,0-18
+482,Fiona White,2,Male,Asthma,Dietary changes,0-18
+483,Diana Roberts,48,Male,Asthma,Dietary changes,36-50
+484,Judy Adams,45,Female,Arthritis,Physical therapy,36-50
+485,Diana Roberts,14,Female,Hypertension,Rehabilitation,0-18
+486,Fiona White,10,Female,Hypertension,Vaccination,0-18
+487,Ian Clark,50,Female,Flu,Physical therapy,36-50
+488,Charlie Davis,38,Male,Anxiety,Counseling,36-50
+489,George Green,70,Female,COVID-19,Medication,65+
+490,George Green,65,Male,Diabetes,Therapy,51-65
+491,Alice Johnson,6,Male,Arthritis,Rehabilitation,0-18
+492,Fiona White,68,Female,Flu,Medication,65+
+493,Bob Smith,50,Male,Anxiety,Medication,36-50
+494,Charlie Davis,67,Female,Diabetes,Rehabilitation,65+
+495,George Green,9,Male,Flu,Counseling,0-18
+496,Ethan Brown,32,Female,Arthritis,Rehabilitation,19-35
+497,Hannah Black,67,Female,Flu,Surgery,65+
+498,Bob Smith,22,Male,Allergies,Physical therapy,19-35
+499,Alice Johnson,2,Male,Anxiety,Medication,0-18
+500,Judy Adams,40,Female,Anxiety,Surgery,36-50
+501,Alice Johnson,18,Male,Anxiety,Lifestyle changes,0-18
+502,Fiona White,51,Female,Diabetes,Surgery,51-65
+503,Hannah Black,43,Male,Arthritis,Therapy,36-50
+504,Judy Adams,22,Female,Anxiety,Surgery,19-35
+505,Diana Roberts,2,Female,Asthma,Medication,0-18
+506,Hannah Black,31,Male,Flu,Medication,19-35
+507,George Green,64,Male,Arthritis,Medication,51-65
+508,Hannah Black,66,Male,Anxiety,Vaccination,65+
+509,George Green,57,Female,Arthritis,Surgery,51-65
+510,Hannah Black,62,Male,Hypertension,Dietary changes,51-65
+511,Charlie Davis,23,Male,Allergies,Therapy,19-35
+512,Alice Johnson,68,Female,Asthma,Vaccination,65+
+513,Charlie Davis,28,Male,Flu,Lifestyle changes,19-35
+514,Ethan Brown,24,Male,Allergies,Therapy,19-35
+515,Charlie Davis,66,Female,Arthritis,Observation,65+
+516,George Green,64,Female,Asthma,Rehabilitation,51-65
+517,Judy Adams,66,Male,Depression,Therapy,65+
+518,Ethan Brown,35,Female,COVID-19,Vaccination,19-35
+519,Judy Adams,37,Female,Depression,Surgery,36-50
+520,Alice Johnson,69,Female,Bronchitis,Physical therapy,65+
+521,Bob Smith,47,Male,Anxiety,Therapy,36-50
+522,Fiona White,30,Female,Anxiety,Lifestyle changes,19-35
+523,Alice Johnson,9,Female,Depression,Dietary changes,0-18
+524,Fiona White,52,Male,Arthritis,Physical therapy,51-65
+525,George Green,20,Male,Asthma,Surgery,19-35
+526,Bob Smith,62,Male,Hypertension,Lifestyle changes,51-65
+527,Alice Johnson,25,Female,Anxiety,Observation,19-35
+528,Ethan Brown,18,Male,Hypertension,Medication,0-18
+529,Bob Smith,17,Male,Hypertension,Medication,0-18
+530,Hannah Black,8,Male,Flu,Surgery,0-18
+531,Bob Smith,67,Male,Allergies,Rehabilitation,65+
+532,Diana Roberts,34,Female,Depression,Dietary changes,19-35
+533,Alice Johnson,4,Male,Flu,Lifestyle changes,0-18
+534,Alice Johnson,22,Female,Depression,Surgery,19-35
+535,Fiona White,57,Male,Depression,Surgery,51-65
+536,Diana Roberts,14,Female,Arthritis,Rehabilitation,0-18
+537,Charlie Davis,1,Male,Hypertension,Dietary changes,0-18
+538,Judy Adams,26,Female,Flu,Observation,19-35
+539,Diana Roberts,37,Male,Asthma,Lifestyle changes,36-50
+540,Diana Roberts,37,Female,Bronchitis,Counseling,36-50
+541,Bob Smith,16,Female,Allergies,Rehabilitation,0-18
+542,Fiona White,29,Female,Flu,Surgery,19-35
+543,George Green,20,Male,Hypertension,Medication,19-35
+544,Ian Clark,2,Male,Bronchitis,Rehabilitation,0-18
+545,Hannah Black,19,Male,Flu,Observation,19-35
+546,Judy Adams,65,Female,COVID-19,Lifestyle changes,51-65
+547,Ian Clark,68,Female,COVID-19,Physical therapy,65+
+548,George Green,44,Male,Flu,Surgery,36-50
+549,Fiona White,68,Male,Allergies,Rehabilitation,65+
+550,George Green,24,Female,Depression,Dietary changes,19-35
+551,George Green,12,Male,Diabetes,Physical therapy,0-18
+552,Diana Roberts,37,Female,Asthma,Vaccination,36-50
+553,Ian Clark,16,Female,Anxiety,Surgery,0-18
+554,Fiona White,70,Female,Asthma,Vaccination,65+
+555,Judy Adams,69,Male,Allergies,Therapy,65+
+556,Hannah Black,35,Female,Flu,Therapy,19-35
+557,Hannah Black,31,Male,COVID-19,Lifestyle changes,19-35
+558,Hannah Black,20,Female,Diabetes,Physical therapy,19-35
+559,Ian Clark,35,Female,Anxiety,Observation,19-35
+560,Hannah Black,18,Female,Allergies,Medication,0-18
+561,Bob Smith,4,Male,COVID-19,Counseling,0-18
+562,Charlie Davis,69,Female,Flu,Therapy,65+
+563,Fiona White,14,Female,Hypertension,Counseling,0-18
+564,Diana Roberts,63,Female,Asthma,Therapy,51-65
+565,Ethan Brown,38,Male,COVID-19,Vaccination,36-50
+566,Ian Clark,61,Male,Hypertension,Surgery,51-65
+567,Bob Smith,5,Male,Diabetes,Observation,0-18
+568,George Green,68,Female,Anxiety,Observation,65+
+569,Fiona White,28,Male,Allergies,Counseling,19-35
+570,Hannah Black,54,Female,Arthritis,Physical therapy,51-65
+571,Ethan Brown,10,Male,Bronchitis,Medication,0-18
+572,Fiona White,33,Male,COVID-19,Therapy,19-35
+573,Ian Clark,13,Male,Hypertension,Surgery,0-18
+574,Fiona White,64,Female,Diabetes,Lifestyle changes,51-65
+575,Ethan Brown,24,Female,Allergies,Physical therapy,19-35
+576,Ian Clark,9,Female,Hypertension,Counseling,0-18
+577,Charlie Davis,23,Male,Flu,Medication,19-35
+578,Fiona White,25,Male,Anxiety,Lifestyle changes,19-35
+579,George Green,29,Male,Anxiety,Lifestyle changes,19-35
+580,Charlie Davis,54,Female,Allergies,Rehabilitation,51-65
+581,Diana Roberts,50,Female,COVID-19,Observation,36-50
+582,Charlie Davis,6,Male,Hypertension,Therapy,0-18
+583,Diana Roberts,63,Female,Allergies,Physical therapy,51-65
+584,Ian Clark,6,Female,Asthma,Physical therapy,0-18
+585,Diana Roberts,45,Female,Diabetes,Rehabilitation,36-50
+586,Judy Adams,19,Female,Arthritis,Lifestyle changes,19-35
+587,Hannah Black,4,Male,Flu,Lifestyle changes,0-18
+588,Judy Adams,40,Female,Diabetes,Rehabilitation,36-50
+589,Judy Adams,70,Male,Depression,Counseling,65+
+590,Hannah Black,49,Female,Allergies,Vaccination,36-50
+591,Hannah Black,26,Male,Arthritis,Therapy,19-35
+592,Alice Johnson,55,Male,Hypertension,Lifestyle changes,51-65
+593,Diana Roberts,34,Male,COVID-19,Medication,19-35
+594,Hannah Black,8,Male,Depression,Lifestyle changes,0-18
+595,Ian Clark,22,Female,Arthritis,Surgery,19-35
+596,Alice Johnson,37,Female,Flu,Vaccination,36-50
+597,Ethan Brown,30,Male,Depression,Lifestyle changes,19-35
+598,Ethan Brown,23,Female,Allergies,Surgery,19-35
+599,Bob Smith,9,Male,Flu,Counseling,0-18
+600,George Green,44,Female,COVID-19,Rehabilitation,36-50
+601,George Green,1,Male,Hypertension,Rehabilitation,0-18
+602,Ian Clark,61,Female,COVID-19,Vaccination,51-65
+603,Judy Adams,18,Female,COVID-19,Physical therapy,0-18
+604,Ian Clark,32,Male,Hypertension,Lifestyle changes,19-35
+605,Alice Johnson,28,Female,Depression,Vaccination,19-35
+606,Diana Roberts,3,Female,Allergies,Medication,0-18
+607,Judy Adams,23,Male,Hypertension,Observation,19-35
+608,Fiona White,68,Female,Hypertension,Medication,65+
+609,Hannah Black,43,Male,Flu,Observation,36-50
+610,Charlie Davis,16,Male,Asthma,Rehabilitation,0-18
+611,Judy Adams,43,Male,Arthritis,Dietary changes,36-50
+612,Ian Clark,8,Male,Flu,Observation,0-18
+613,Charlie Davis,33,Male,Arthritis,Rehabilitation,19-35
+614,Fiona White,18,Female,Anxiety,Vaccination,0-18
+615,Ethan Brown,13,Female,Flu,Counseling,0-18
+616,Charlie Davis,39,Female,Anxiety,Rehabilitation,36-50
+617,Judy Adams,44,Female,COVID-19,Observation,36-50
+618,Ethan Brown,35,Female,Arthritis,Surgery,19-35
+619,Ethan Brown,49,Female,Hypertension,Observation,36-50
+620,Bob Smith,67,Male,Depression,Dietary changes,65+
+621,Ethan Brown,13,Female,Anxiety,Therapy,0-18
+622,Bob Smith,21,Male,Anxiety,Vaccination,19-35
+623,Charlie Davis,11,Female,Asthma,Rehabilitation,0-18
+624,Charlie Davis,1,Female,Bronchitis,Vaccination,0-18
+625,Charlie Davis,12,Male,Anxiety,Therapy,0-18
+626,Fiona White,40,Male,Anxiety,Therapy,36-50
+627,Hannah Black,12,Female,Anxiety,Physical therapy,0-18
+628,Alice Johnson,15,Female,Allergies,Lifestyle changes,0-18
+629,Fiona White,8,Male,Anxiety,Vaccination,0-18
+630,Alice Johnson,62,Female,Allergies,Therapy,51-65
+631,Charlie Davis,68,Female,Arthritis,Therapy,65+
+632,George Green,56,Female,Allergies,Rehabilitation,51-65
+633,Ian Clark,66,Male,Depression,Counseling,65+
+634,George Green,38,Male,Hypertension,Counseling,36-50
+635,Ian Clark,30,Male,Asthma,Lifestyle changes,19-35
+636,Diana Roberts,45,Male,Hypertension,Therapy,36-50
+637,Ethan Brown,27,Female,Anxiety,Medication,19-35
+638,Fiona White,44,Female,Bronchitis,Counseling,36-50
+639,Charlie Davis,7,Female,Hypertension,Physical therapy,0-18
+640,Judy Adams,37,Female,Asthma,Vaccination,36-50
+641,Hannah Black,18,Male,Allergies,Lifestyle changes,0-18
+642,Fiona White,2,Female,Allergies,Counseling,0-18
+643,Hannah Black,23,Male,Depression,Physical therapy,19-35
+644,George Green,58,Male,COVID-19,Surgery,51-65
+645,Fiona White,6,Female,Anxiety,Dietary changes,0-18
+646,George Green,17,Female,Flu,Vaccination,0-18
+647,Alice Johnson,61,Female,Diabetes,Therapy,51-65
+648,Charlie Davis,25,Male,Bronchitis,Vaccination,19-35
+649,Ian Clark,63,Female,Bronchitis,Lifestyle changes,51-65
+650,Ethan Brown,5,Male,Hypertension,Surgery,0-18
+651,Ian Clark,4,Female,Arthritis,Dietary changes,0-18
+652,Ethan Brown,49,Male,Flu,Therapy,36-50
+653,Hannah Black,66,Male,Allergies,Rehabilitation,65+
+654,George Green,65,Male,Anxiety,Physical therapy,51-65
+655,Bob Smith,61,Female,Asthma,Physical therapy,51-65
+656,Diana Roberts,17,Female,Flu,Rehabilitation,0-18
+657,Fiona White,29,Female,Anxiety,Therapy,19-35
+658,Hannah Black,6,Female,Diabetes,Surgery,0-18
+659,Bob Smith,29,Male,Asthma,Surgery,19-35
+660,Alice Johnson,52,Female,Anxiety,Rehabilitation,51-65
+661,Hannah Black,68,Female,Arthritis,Physical therapy,65+
+662,Bob Smith,45,Female,Anxiety,Physical therapy,36-50
+663,Ian Clark,20,Male,Anxiety,Medication,19-35
+664,George Green,1,Male,COVID-19,Therapy,0-18
+665,Alice Johnson,1,Female,Arthritis,Medication,0-18
+666,Fiona White,66,Male,Depression,Surgery,65+
+667,Bob Smith,46,Female,Bronchitis,Therapy,36-50
+668,Charlie Davis,15,Female,Depression,Medication,0-18
+669,Judy Adams,3,Female,Bronchitis,Physical therapy,0-18
+670,Charlie Davis,20,Female,Anxiety,Rehabilitation,19-35
+671,Diana Roberts,26,Female,Anxiety,Rehabilitation,19-35
+672,Ian Clark,16,Female,Asthma,Physical therapy,0-18
+673,Ethan Brown,36,Female,Diabetes,Physical therapy,36-50
+674,Hannah Black,9,Male,Hypertension,Dietary changes,0-18
+675,Alice Johnson,2,Female,Flu,Vaccination,0-18
+676,Judy Adams,48,Male,Depression,Lifestyle changes,36-50
+677,Charlie Davis,13,Male,Bronchitis,Surgery,0-18
+678,Bob Smith,40,Male,Asthma,Counseling,36-50
+679,Hannah Black,38,Male,Hypertension,Dietary changes,36-50
+680,Judy Adams,9,Male,Arthritis,Observation,0-18
+681,Ian Clark,51,Female,Depression,Rehabilitation,51-65
+682,Ethan Brown,34,Female,Anxiety,Medication,19-35
+683,Ian Clark,59,Male,Allergies,Observation,51-65
+684,Diana Roberts,17,Male,Hypertension,Therapy,0-18
+685,Alice Johnson,27,Female,COVID-19,Lifestyle changes,19-35
+686,Ethan Brown,15,Male,Diabetes,Rehabilitation,0-18
+687,Judy Adams,19,Female,Arthritis,Physical therapy,19-35
+688,Diana Roberts,23,Male,Hypertension,Lifestyle changes,19-35
+689,Ethan Brown,19,Male,COVID-19,Observation,19-35
+690,Charlie Davis,21,Male,COVID-19,Counseling,19-35
+691,Judy Adams,30,Male,Hypertension,Rehabilitation,19-35
+692,Bob Smith,67,Male,COVID-19,Vaccination,65+
+693,Alice Johnson,55,Male,COVID-19,Observation,51-65
+694,Judy Adams,31,Male,Bronchitis,Vaccination,19-35
+695,Ian Clark,69,Female,COVID-19,Lifestyle changes,65+
+696,George Green,60,Female,Asthma,Counseling,51-65
+697,Fiona White,66,Female,Anxiety,Therapy,65+
+698,Diana Roberts,52,Female,Arthritis,Lifestyle changes,51-65
+699,Judy Adams,44,Male,Allergies,Vaccination,36-50
+700,Judy Adams,63,Male,Depression,Lifestyle changes,51-65
+701,Charlie Davis,24,Female,COVID-19,Dietary changes,19-35
+702,Ethan Brown,9,Male,Depression,Lifestyle changes,0-18
+703,George Green,55,Male,Allergies,Vaccination,51-65
+704,Alice Johnson,5,Female,Depression,Lifestyle changes,0-18
+705,Diana Roberts,39,Male,Depression,Surgery,36-50
+706,Bob Smith,55,Male,Asthma,Therapy,51-65
+707,Bob Smith,17,Male,Arthritis,Vaccination,0-18
+708,Ethan Brown,2,Female,Bronchitis,Lifestyle changes,0-18
+709,Hannah Black,38,Female,Depression,Observation,36-50
+710,Ian Clark,27,Male,COVID-19,Vaccination,19-35
+711,Charlie Davis,7,Female,Asthma,Therapy,0-18
+712,Fiona White,59,Female,Flu,Dietary changes,51-65
+713,Judy Adams,34,Male,COVID-19,Medication,19-35
+714,Hannah Black,10,Male,Allergies,Dietary changes,0-18
+715,Ian Clark,50,Female,Anxiety,Therapy,36-50
+716,Bob Smith,52,Female,Asthma,Observation,51-65
+717,Ethan Brown,54,Female,Asthma,Therapy,51-65
+718,Charlie Davis,51,Female,Flu,Observation,51-65
+719,Ethan Brown,42,Male,Allergies,Counseling,36-50
+720,Judy Adams,20,Male,Diabetes,Therapy,19-35
+721,Ian Clark,15,Female,Anxiety,Vaccination,0-18
+722,Alice Johnson,51,Female,Asthma,Rehabilitation,51-65
+723,Fiona White,1,Male,Asthma,Rehabilitation,0-18
+724,Judy Adams,64,Female,Bronchitis,Medication,51-65
+725,Hannah Black,11,Female,Arthritis,Dietary changes,0-18
+726,Fiona White,66,Female,Arthritis,Therapy,65+
+727,Diana Roberts,66,Female,Anxiety,Medication,65+
+728,Ian Clark,66,Female,Asthma,Physical therapy,65+
+729,Fiona White,46,Female,COVID-19,Vaccination,36-50
+730,Judy Adams,6,Male,Diabetes,Therapy,0-18
+731,Judy Adams,4,Male,COVID-19,Surgery,0-18
+732,Alice Johnson,51,Female,COVID-19,Observation,51-65
+733,George Green,20,Male,Hypertension,Vaccination,19-35
+734,Fiona White,31,Female,Asthma,Physical therapy,19-35
+735,Fiona White,7,Male,Flu,Medication,0-18
+736,Ian Clark,1,Female,Hypertension,Vaccination,0-18
+737,Charlie Davis,66,Female,Bronchitis,Vaccination,65+
+738,Hannah Black,23,Female,Asthma,Therapy,19-35
+739,Charlie Davis,4,Male,Anxiety,Vaccination,0-18
+740,Alice Johnson,50,Female,Hypertension,Vaccination,36-50
+741,George Green,48,Female,Arthritis,Surgery,36-50
+742,George Green,12,Male,Diabetes,Dietary changes,0-18
+743,Hannah Black,43,Male,Depression,Physical therapy,36-50
+744,Bob Smith,17,Female,Diabetes,Medication,0-18
+745,Ethan Brown,12,Male,Diabetes,Dietary changes,0-18
+746,Bob Smith,31,Male,Allergies,Dietary changes,19-35
+747,Ethan Brown,11,Male,Depression,Rehabilitation,0-18
+748,Hannah Black,13,Female,Flu,Medication,0-18
+749,Bob Smith,35,Female,Hypertension,Rehabilitation,19-35
+750,Alice Johnson,63,Male,Hypertension,Observation,51-65
+751,Judy Adams,34,Female,Depression,Surgery,19-35
+752,Alice Johnson,38,Male,Anxiety,Surgery,36-50
+753,Ethan Brown,3,Female,Flu,Observation,0-18
+754,Charlie Davis,14,Male,Flu,Observation,0-18
+755,Hannah Black,17,Male,COVID-19,Dietary changes,0-18
+756,George Green,26,Female,Asthma,Dietary changes,19-35
+757,Ian Clark,16,Female,Allergies,Counseling,0-18
+758,Judy Adams,29,Female,Asthma,Observation,19-35
+759,George Green,47,Male,Diabetes,Vaccination,36-50
+760,George Green,8,Female,Allergies,Rehabilitation,0-18
+761,Charlie Davis,53,Male,Depression,Vaccination,51-65
+762,Ethan Brown,70,Female,Allergies,Surgery,65+
+763,Diana Roberts,22,Female,Bronchitis,Observation,19-35
+764,Judy Adams,63,Female,Asthma,Physical therapy,51-65
+765,Judy Adams,57,Female,Flu,Therapy,51-65
+766,Bob Smith,37,Male,Flu,Observation,36-50
+767,Ian Clark,50,Male,Diabetes,Lifestyle changes,36-50
+768,Charlie Davis,7,Female,Hypertension,Counseling,0-18
+769,Diana Roberts,43,Male,Depression,Therapy,36-50
+770,Alice Johnson,3,Female,Asthma,Rehabilitation,0-18
+771,Charlie Davis,19,Female,Allergies,Physical therapy,19-35
+772,George Green,68,Female,Depression,Therapy,65+
+773,Judy Adams,44,Female,Allergies,Observation,36-50
+774,Fiona White,26,Female,Asthma,Vaccination,19-35
+775,Judy Adams,6,Female,COVID-19,Vaccination,0-18
+776,Ian Clark,13,Female,Diabetes,Counseling,0-18
+777,Diana Roberts,13,Female,Arthritis,Counseling,0-18
+778,George Green,7,Female,Diabetes,Medication,0-18
+779,Hannah Black,69,Female,Asthma,Medication,65+
+780,Diana Roberts,6,Female,Flu,Physical therapy,0-18
+781,Ethan Brown,42,Male,Bronchitis,Vaccination,36-50
+782,Hannah Black,37,Female,Hypertension,Therapy,36-50
+783,Ian Clark,29,Male,Depression,Counseling,19-35
+784,Hannah Black,42,Male,Flu,Vaccination,36-50
+785,Diana Roberts,39,Female,Asthma,Medication,36-50
+786,Hannah Black,41,Female,Hypertension,Rehabilitation,36-50
+787,Ethan Brown,33,Female,Asthma,Counseling,19-35
+788,Charlie Davis,15,Female,Allergies,Dietary changes,0-18
+789,Bob Smith,3,Male,Depression,Lifestyle changes,0-18
+790,Charlie Davis,56,Female,Arthritis,Lifestyle changes,51-65
+791,Fiona White,68,Male,COVID-19,Therapy,65+
+792,Ethan Brown,24,Female,Allergies,Vaccination,19-35
+793,Bob Smith,66,Male,Arthritis,Physical therapy,65+
+794,Fiona White,30,Male,Diabetes,Medication,19-35
+795,Diana Roberts,56,Male,Allergies,Medication,51-65
+796,Ian Clark,43,Male,Anxiety,Lifestyle changes,36-50
+797,Diana Roberts,25,Female,COVID-19,Lifestyle changes,19-35
+798,Ian Clark,58,Female,Asthma,Dietary changes,51-65
+799,Hannah Black,64,Female,Flu,Surgery,51-65
+800,Ian Clark,34,Male,COVID-19,Physical therapy,19-35
+801,Ian Clark,54,Male,COVID-19,Surgery,51-65
+802,Fiona White,9,Male,COVID-19,Rehabilitation,0-18
+803,Hannah Black,67,Female,Diabetes,Therapy,65+
+804,Charlie Davis,54,Female,COVID-19,Observation,51-65
+805,Diana Roberts,44,Male,Bronchitis,Rehabilitation,36-50
+806,George Green,26,Male,Diabetes,Rehabilitation,19-35
+807,Diana Roberts,30,Female,Hypertension,Observation,19-35
+808,Alice Johnson,56,Female,Anxiety,Therapy,51-65
+809,Fiona White,14,Female,COVID-19,Rehabilitation,0-18
+810,Hannah Black,10,Male,Bronchitis,Physical therapy,0-18
+811,Bob Smith,28,Female,Asthma,Dietary changes,19-35
+812,Judy Adams,66,Male,Diabetes,Observation,65+
+813,Alice Johnson,15,Male,Diabetes,Surgery,0-18
+814,Charlie Davis,41,Male,Hypertension,Counseling,36-50
+815,Charlie Davis,23,Female,Flu,Therapy,19-35
+816,George Green,13,Female,Flu,Dietary changes,0-18
+817,Fiona White,10,Female,Flu,Dietary changes,0-18
+818,Ian Clark,12,Male,Arthritis,Dietary changes,0-18
+819,Alice Johnson,37,Male,Allergies,Lifestyle changes,36-50
+820,Ethan Brown,34,Male,COVID-19,Surgery,19-35
+821,Judy Adams,23,Female,Hypertension,Dietary changes,19-35
+822,Judy Adams,4,Female,Anxiety,Physical therapy,0-18
+823,Ethan Brown,10,Female,Asthma,Lifestyle changes,0-18
+824,Ethan Brown,36,Male,Asthma,Observation,36-50
+825,George Green,50,Male,Bronchitis,Physical therapy,36-50
+826,Charlie Davis,54,Female,Asthma,Lifestyle changes,51-65
+827,Ethan Brown,58,Female,Allergies,Lifestyle changes,51-65
+828,Ian Clark,56,Male,Allergies,Physical therapy,51-65
+829,Alice Johnson,9,Male,COVID-19,Therapy,0-18
+830,Fiona White,8,Male,Hypertension,Physical therapy,0-18
+831,Bob Smith,52,Male,Bronchitis,Observation,51-65
+832,Charlie Davis,8,Male,Hypertension,Physical therapy,0-18
+833,Bob Smith,58,Female,Diabetes,Physical therapy,51-65
+834,Charlie Davis,47,Female,Allergies,Observation,36-50
+835,Ethan Brown,20,Female,COVID-19,Dietary changes,19-35
+836,Judy Adams,57,Female,Flu,Dietary changes,51-65
+837,Judy Adams,6,Female,Asthma,Observation,0-18
+838,Bob Smith,49,Male,Depression,Vaccination,36-50
+839,Charlie Davis,37,Male,Asthma,Dietary changes,36-50
+840,Diana Roberts,38,Female,Allergies,Lifestyle changes,36-50
+841,Alice Johnson,43,Male,Anxiety,Surgery,36-50
+842,George Green,58,Male,COVID-19,Therapy,51-65
+843,Fiona White,53,Male,Asthma,Rehabilitation,51-65
+844,Alice Johnson,56,Male,Arthritis,Rehabilitation,51-65
+845,Diana Roberts,41,Female,COVID-19,Medication,36-50
+846,Hannah Black,2,Male,Depression,Vaccination,0-18
+847,George Green,38,Male,Depression,Physical therapy,36-50
+848,Judy Adams,28,Male,Allergies,Counseling,19-35
+849,Hannah Black,61,Male,Flu,Counseling,51-65
+850,Charlie Davis,22,Female,Arthritis,Rehabilitation,19-35
+851,Ian Clark,62,Male,Allergies,Observation,51-65
+852,Charlie Davis,55,Male,Diabetes,Dietary changes,51-65
+853,Diana Roberts,45,Female,Allergies,Counseling,36-50
+854,Judy Adams,40,Male,Depression,Medication,36-50
+855,Ian Clark,22,Female,Asthma,Surgery,19-35
+856,Ethan Brown,32,Male,COVID-19,Lifestyle changes,19-35
+857,Ian Clark,30,Female,Allergies,Physical therapy,19-35
+858,Charlie Davis,17,Female,Diabetes,Counseling,0-18
+859,Ethan Brown,43,Female,Bronchitis,Counseling,36-50
+860,Charlie Davis,47,Female,Depression,Observation,36-50
+861,Fiona White,50,Male,Diabetes,Surgery,36-50
+862,Diana Roberts,19,Male,Anxiety,Therapy,19-35
+863,Ian Clark,66,Male,Bronchitis,Observation,65+
+864,Ethan Brown,68,Female,COVID-19,Therapy,65+
+865,Ethan Brown,43,Male,Bronchitis,Vaccination,36-50
+866,Bob Smith,30,Male,Anxiety,Vaccination,19-35
+867,Judy Adams,62,Male,Arthritis,Lifestyle changes,51-65
+868,Fiona White,35,Male,Bronchitis,Physical therapy,19-35
+869,Judy Adams,44,Female,Hypertension,Therapy,36-50
+870,Fiona White,44,Male,Depression,Counseling,36-50
+871,Alice Johnson,12,Male,COVID-19,Vaccination,0-18
+872,George Green,39,Male,Bronchitis,Observation,36-50
+873,Ethan Brown,30,Male,Hypertension,Vaccination,19-35
+874,Alice Johnson,32,Female,Asthma,Dietary changes,19-35
+875,Ethan Brown,37,Male,Bronchitis,Dietary changes,36-50
+876,Judy Adams,43,Female,Flu,Therapy,36-50
+877,George Green,45,Male,Asthma,Medication,36-50
+878,Fiona White,40,Female,Hypertension,Dietary changes,36-50
+879,Alice Johnson,62,Female,Diabetes,Vaccination,51-65
+880,Bob Smith,37,Female,Hypertension,Dietary changes,36-50
+881,Alice Johnson,64,Male,Anxiety,Dietary changes,51-65
+882,Diana Roberts,7,Female,Allergies,Therapy,0-18
+883,Charlie Davis,20,Male,COVID-19,Physical therapy,19-35
+884,Alice Johnson,68,Male,Allergies,Dietary changes,65+
+885,Ethan Brown,8,Female,Anxiety,Therapy,0-18
+886,Ethan Brown,2,Female,Bronchitis,Medication,0-18
+887,Judy Adams,45,Male,Arthritis,Observation,36-50
+888,Judy Adams,22,Male,Depression,Rehabilitation,19-35
+889,Diana Roberts,20,Male,Allergies,Counseling,19-35
+890,Charlie Davis,12,Male,COVID-19,Lifestyle changes,0-18
+891,Judy Adams,5,Female,COVID-19,Dietary changes,0-18
+892,Bob Smith,19,Female,Allergies,Observation,19-35
+893,Fiona White,43,Male,Asthma,Medication,36-50
+894,Ian Clark,51,Male,Depression,Lifestyle changes,51-65
+895,George Green,26,Female,COVID-19,Rehabilitation,19-35
+896,Fiona White,58,Female,Depression,Observation,51-65
+897,Diana Roberts,20,Male,Arthritis,Lifestyle changes,19-35
+898,Ethan Brown,23,Female,Allergies,Dietary changes,19-35
+899,Ethan Brown,29,Male,Anxiety,Observation,19-35
+900,Hannah Black,69,Female,Flu,Rehabilitation,65+
+901,Ethan Brown,4,Female,Flu,Counseling,0-18
+902,Charlie Davis,13,Female,Flu,Lifestyle changes,0-18
+903,Ian Clark,48,Male,Bronchitis,Dietary changes,36-50
+904,George Green,5,Male,Depression,Rehabilitation,0-18
+905,Ian Clark,35,Female,Depression,Medication,19-35
+906,Ethan Brown,12,Female,Depression,Physical therapy,0-18
+907,Ian Clark,14,Male,Arthritis,Surgery,0-18
+908,Fiona White,16,Female,COVID-19,Therapy,0-18
+909,Ian Clark,7,Male,Bronchitis,Rehabilitation,0-18
+910,Hannah Black,12,Male,Hypertension,Lifestyle changes,0-18
+911,Diana Roberts,47,Female,Diabetes,Dietary changes,36-50
+912,Judy Adams,33,Female,Allergies,Vaccination,19-35
+913,Hannah Black,6,Male,Bronchitis,Therapy,0-18
+914,Judy Adams,46,Male,Asthma,Surgery,36-50
+915,Judy Adams,46,Male,Depression,Counseling,36-50
+916,Diana Roberts,29,Male,Arthritis,Physical therapy,19-35
+917,Hannah Black,67,Male,Flu,Surgery,65+
+918,George Green,48,Male,Hypertension,Vaccination,36-50
+919,Bob Smith,4,Female,Anxiety,Surgery,0-18
+920,Alice Johnson,13,Female,Bronchitis,Observation,0-18
+921,Ian Clark,37,Male,Arthritis,Rehabilitation,36-50
+922,Bob Smith,29,Male,Asthma,Dietary changes,19-35
+923,Ian Clark,63,Female,Asthma,Lifestyle changes,51-65
+924,George Green,58,Male,Allergies,Counseling,51-65
+925,Ian Clark,8,Female,Depression,Counseling,0-18
+926,Ian Clark,54,Female,Allergies,Counseling,51-65
+927,Ian Clark,21,Female,COVID-19,Observation,19-35
+928,Ethan Brown,18,Female,Arthritis,Observation,0-18
+929,Hannah Black,55,Male,Bronchitis,Medication,51-65
+930,Charlie Davis,18,Male,Arthritis,Surgery,0-18
+931,Alice Johnson,58,Male,Flu,Medication,51-65
+932,Judy Adams,7,Female,Depression,Medication,0-18
+933,Bob Smith,44,Female,Allergies,Vaccination,36-50
+934,Fiona White,15,Male,Asthma,Medication,0-18
+935,Alice Johnson,38,Male,Arthritis,Physical therapy,36-50
+936,Fiona White,17,Male,Arthritis,Rehabilitation,0-18
+937,Bob Smith,63,Male,Hypertension,Counseling,51-65
+938,Diana Roberts,20,Female,Hypertension,Therapy,19-35
+939,Diana Roberts,18,Female,Allergies,Medication,0-18
+940,Ian Clark,4,Male,Depression,Dietary changes,0-18
+941,George Green,60,Male,Flu,Therapy,51-65
+942,Judy Adams,65,Male,Anxiety,Counseling,51-65
+943,George Green,1,Female,Hypertension,Counseling,0-18
+944,Ethan Brown,31,Female,COVID-19,Observation,19-35
+945,Hannah Black,42,Male,Arthritis,Lifestyle changes,36-50
+946,Alice Johnson,68,Female,Allergies,Medication,65+
+947,Fiona White,23,Female,COVID-19,Vaccination,19-35
+948,Ian Clark,61,Female,Depression,Rehabilitation,51-65
+949,Ethan Brown,16,Male,Flu,Surgery,0-18
+950,Bob Smith,40,Female,Flu,Rehabilitation,36-50
+951,Charlie Davis,41,Male,Hypertension,Surgery,36-50
+952,Judy Adams,65,Male,COVID-19,Observation,51-65
+953,Alice Johnson,41,Female,Arthritis,Lifestyle changes,36-50
+954,Charlie Davis,13,Female,Hypertension,Medication,0-18
+955,Fiona White,51,Female,Bronchitis,Surgery,51-65
+956,Diana Roberts,5,Female,Asthma,Physical therapy,0-18
+957,Hannah Black,42,Female,Depression,Therapy,36-50
+958,Alice Johnson,28,Female,COVID-19,Lifestyle changes,19-35
+959,Diana Roberts,43,Male,Bronchitis,Lifestyle changes,36-50
+960,Bob Smith,13,Female,Anxiety,Dietary changes,0-18
+961,George Green,61,Male,Diabetes,Counseling,51-65
+962,George Green,65,Female,Anxiety,Physical therapy,51-65
+963,Alice Johnson,1,Female,Diabetes,Physical therapy,0-18
+964,Judy Adams,58,Male,Anxiety,Surgery,51-65
+965,Bob Smith,40,Female,Asthma,Therapy,36-50
+966,Diana Roberts,12,Male,Allergies,Surgery,0-18
+967,Ethan Brown,25,Male,Diabetes,Surgery,19-35
+968,Ian Clark,17,Female,Allergies,Therapy,0-18
+969,Fiona White,49,Female,Hypertension,Physical therapy,36-50
+970,George Green,3,Female,Diabetes,Surgery,0-18
+971,Diana Roberts,45,Male,Bronchitis,Observation,36-50
+972,Bob Smith,33,Female,Asthma,Counseling,19-35
+973,Bob Smith,15,Male,Flu,Counseling,0-18
+974,Charlie Davis,3,Male,Arthritis,Dietary changes,0-18
+975,Judy Adams,13,Female,Depression,Observation,0-18
+976,Ethan Brown,37,Female,Flu,Physical therapy,36-50
+977,George Green,44,Female,Arthritis,Lifestyle changes,36-50
+978,Ethan Brown,15,Male,COVID-19,Surgery,0-18
+979,Fiona White,31,Female,Depression,Counseling,19-35
+980,Ethan Brown,3,Female,Depression,Observation,0-18
+981,Ethan Brown,30,Male,Asthma,Counseling,19-35
+982,George Green,33,Female,Asthma,Observation,19-35
+983,Ethan Brown,7,Female,Diabetes,Medication,0-18
+984,Fiona White,29,Male,Bronchitis,Surgery,19-35
+985,George Green,12,Female,Depression,Dietary changes,0-18
+986,Ethan Brown,61,Female,COVID-19,Rehabilitation,51-65
+987,Ethan Brown,51,Male,COVID-19,Dietary changes,51-65
+988,Fiona White,62,Male,Depression,Vaccination,51-65
+989,Charlie Davis,8,Female,Bronchitis,Surgery,0-18
+990,Judy Adams,68,Male,Flu,Observation,65+
+991,Ian Clark,10,Female,Diabetes,Vaccination,0-18
+992,Charlie Davis,12,Male,Bronchitis,Therapy,0-18
+993,Judy Adams,12,Female,COVID-19,Physical therapy,0-18
+994,George Green,10,Male,Flu,Observation,0-18
+995,Hannah Black,16,Female,Diabetes,Therapy,0-18
+996,Alice Johnson,36,Female,Allergies,Rehabilitation,36-50
+997,Bob Smith,51,Male,Depression,Dietary changes,51-65
+998,Charlie Davis,68,Male,Bronchitis,Physical therapy,65+
+999,Fiona White,24,Male,Asthma,Observation,19-35
+1000,Judy Adams,17,Male,Depression,Counseling,0-18
